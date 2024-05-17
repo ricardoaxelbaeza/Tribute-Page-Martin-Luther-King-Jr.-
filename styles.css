@@ -39,15 +39,28 @@ h2{
   margin-right:auto;
 }
 
+#tribute-info{
+  min-width:500px;
+}
+
 .quote-bottom{
  margin-top:30px;
  font-size:12px;
 }
 
+#container{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* text-align:center; */
+  width:60%;
+  
+}
+
 ul {
   list-style-position: inside;
-  margin-left:400px;
-  margin-right:435px;
+  /* display: inline-block; */
+  text-align: left;
 }
 
 .center{
@@ -55,6 +68,13 @@ ul {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.quote-bottom,redirect{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:60%;
 }
 
 .redirect{
