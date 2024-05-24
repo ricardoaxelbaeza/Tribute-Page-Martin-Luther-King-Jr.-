@@ -42,8 +42,6 @@ h2{
 #tribute-info{
   min-width:500px;
   text-align:center;
-  
-  padding-left:-50px;
 }
 
 .quote-bottom{
@@ -64,7 +62,7 @@ ul {
   list-style-position: inside;
   display: inline-block;
   text-align: left;
-  padding:0 30px;
+  padding:0 50px;
 }
 
 .center{
