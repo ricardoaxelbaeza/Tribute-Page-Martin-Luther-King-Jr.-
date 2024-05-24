@@ -41,6 +41,9 @@ h2{
 
 #tribute-info{
   min-width:500px;
+  text-align:center;
+  
+  padding-left:-50px;
 }
 
 .quote-bottom{
@@ -59,8 +62,9 @@ h2{
 
 ul {
   list-style-position: inside;
-  /* display: inline-block; */
+  display: inline-block;
   text-align: left;
+  padding:0 30px;
 }
 
 .center{
@@ -68,6 +72,12 @@ ul {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+
+#citation a{
+  /* text-decoration:none; */
+  color:blue;
 }
 
 .quote-bottom,redirect{
